@@ -4,7 +4,7 @@
 ## Grounding Model
 + [ShowUI: One Vision-Language-Action Model for GUI Visual Agent](https://arxiv.org/abs/2411.17465)
 
-  [![Github](https://img.shields.io/github/stars/deepmind/android_env.svg)](https://github.com/showlab/ShowUI)
+  [![Github]](https://github.com/showlab/ShowUI)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17465)
 
 + [Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](https://arxiv.org/abs/2410.05243)
