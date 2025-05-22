@@ -9,7 +9,7 @@
 
 + [Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](https://arxiv.org/abs/2410.05243)
 
- [Github](https://github.com/OSU-NLP-Group/UGround)
+  [Github](https://github.com/OSU-NLP-Group/UGround)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.05243)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://osu-nlp-group.github.io/UGround/)
 
