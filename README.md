@@ -52,3 +52,35 @@
 
   [Github](https://github.com/YXB-NKU/SE-GUI)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.12370)
+
+## End-to-End Flowwork
+
++ [CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning](https://arxiv.org/abs/2503.03743)
+
+  [Github](https://github.com/Yuqi-Zhou/CHOP)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.03743)
+
++ [Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception](https://arxiv.org/abs/2401.16158)
+
+  [Github](https://github.com/X-PLUG/MobileAgent)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.16158)
+
++ [Mobile-Agent-V_ Learning Mobile Device Operation Through Video-Guided Multi-Agent Collaboration](https://arxiv.org/abs/2502.17110)
+
+  [Github](https://github.com/X-PLUG/MobileAgent)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.17110)
+
++ [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
+
+  [Github](https://github.com/X-PLUG/MobileAgent)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01014)
+
++ [MobA: A Two-Level Agent System for Efficient Mobile Task Automation](https://arxiv.org/abs/2410.13757)
+
+  [Github](https://github.com/OpenDFM/MobA)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13757)
+
++ [Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks](https://arxiv.org/abs/2501.11733)
+
+  [Github](https://x-plug.github.io/MobileAgent/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.11733)
